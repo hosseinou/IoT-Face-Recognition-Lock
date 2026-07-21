@@ -1,16 +1,7 @@
-# Python Virtual Environments
-venv/
-env/
 
-# IDE and Editor folders
-.idea/
-.vscode/
-
-# Python Cache files
 __pycache__/
 *.pyc
 
-# C++/Arduino Compiled files (if any get generated locally)
 *.o
 *.elf
 *.bin
